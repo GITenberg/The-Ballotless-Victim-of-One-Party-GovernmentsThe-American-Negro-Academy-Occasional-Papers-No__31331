@@ -1,0 +1,34 @@
+_repo: The-Ballotless-Victim-of-One-Party-GovernmentsThe-American-Negro-Academy-Occasional-Papers-No__31331
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grimké, Archibald Henry
+    aliases:
+    - Grimké, Archibald H.
+    - Grimke, Archibald Henry
+    birthdate: 1849
+    deathdate: 1930
+    gutenberg_agent_id: '5574'
+    url: http://www.gutenberg.org/2009/agents/5574
+    wikipedia: http://en.wikipedia.org/wiki/Archibald_Grimke
+description: ''
+gutenberg_issued: '2010-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31331'
+  lccn: '13018319'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Legal status, laws, etc.'
+- !lcc 'E151'
+- !lcsh 'African Americans -- Suffrage'
+title: 'The Ballotless Victim of One-Party Governments
+
+  The American Negro Academy, Occasional Papers No. 16'
+url: http://www.gutenberg.org/ebooks/31331
